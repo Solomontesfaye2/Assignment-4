@@ -1,4 +1,4 @@
-document.getElementById('bg').addEventListener('click' , background)
+document.getElementById('bg').addEventListener('click', background)
 document.getElementById('change-text').addEventListener('click', report)
 
 function background () {

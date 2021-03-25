@@ -17,10 +17,15 @@ h1 {
   height: 100px;
 }
 
-padding {
-  border: 5px solid black; 
+h3 {
+  border: 5px solid black;
+
 }
 
+h2 {
+  border: 5px solid black;
+
+}
 h2 {
   text-align: right;
 }  
